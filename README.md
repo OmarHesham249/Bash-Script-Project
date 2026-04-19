@@ -82,13 +82,13 @@ cd user-group-manager
 ### 2. ⚙️ Make the script executable
 
 ```bash
-chmod +x user_manager.sh
+chmod +x project.sh
 ```
 
 ### 3. ▶️ Run as root
 
 ```bash
-sudo ./user_manager.sh
+sudo ./project.sh
 ```
 
 ---
@@ -121,9 +121,9 @@ sudo ./user_manager.sh
 ## 📁 Project Structure
 
 ```
-user-group-manager/
+Bash project/
 │
-├── user_manager.sh       # 🐚 Main script
+├── project.sh            # 🐚 Main script
 └── README.md             # 📄 You're reading this!
 ```
 
@@ -154,9 +154,3 @@ user-group-manager/
 ### Omar Hesham
 
 🎓 System Administration Track — ITI
-
----
-
-## 📝 License
-
-This project is open source and free to use for educational and administrative purposes. Feel free to fork it, break it, and make it your own! 🚀
