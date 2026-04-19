@@ -23,7 +23,7 @@
 
 No more memorizing long Linux commands! This script gives you a clean, interactive menu right in your terminal — powered by **whiptail**. Just pick what you want to do and the script handles the rest. Every action has validation and confirmation dialogs so you don't accidentally break anything 😅
 
-![Menu]()
+![Menu](https://github.com/OmarHesham249/Bash-Script-Project/blob/main/Menu%20Image.png)
 
 ---
 
